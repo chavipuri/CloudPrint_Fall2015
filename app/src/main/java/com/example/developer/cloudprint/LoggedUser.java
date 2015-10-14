@@ -47,13 +47,13 @@ public class LoggedUser extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        bundle = this.getIntent().getExtras();
-        String name = bundle.getString("UserName");
+       // bundle = this.getIntent().getExtras();
+      //  String name = bundle.getString("UserName");
         StrictMode.ThreadPolicy policy = new StrictMode.ThreadPolicy.Builder().permitAll().build();
         StrictMode.setThreadPolicy(policy);
         setContentView(R.layout.activity_logged_user);
-        username=(TextView)findViewById(R.id.title);
-        username.setText("Name: " + name);
+      //  username=(TextView)findViewById(R.id.title);
+      //  username.setText("Name: " + name);
         user_logout_button=(Button)findViewById(R.id.logout);
         user_logout_button.setOnClickListener(new View.OnClickListener() {
 

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/CloudPrint/aFileChooser/unspecified/res/values-v19/values-v19.xml -->
+    <!-- From: file:/C:/Users/piyus/AndroidStudioProjects/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/CloudPrint_Fall2015/aFileChooser/unspecified/res/values-v19/values-v19.xml -->
     <eat-comment/>
     <bool name="use_activity">false</bool>
     <bool name="use_provider">true</bool>

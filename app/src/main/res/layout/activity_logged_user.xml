@@ -3,9 +3,9 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@android:color/holo_orange_light"
+    android:background="#00aff0"
     android:baselineAligned="true"
-    android:weightSum="1">"
+    android:weightSum="1">
 
     <TextView
         android:id="@+id/title"
@@ -18,16 +18,29 @@
         android:paddingRight="50dip"
         android:paddingTop="80dip"
         android:layout_marginTop="20dip"
-        android:layout_weight="0.30" />
+        android:layout_weight="0.11" />
 
     <Button
-        style="?android:attr/buttonStyleSmall"
-        android:layout_width="134dp"
-        android:layout_height="wrap_content"
         android:text="Choose a file"
         android:id="@+id/choose_file"
+        android:layout_width="134dp"
+        android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
-        android:background="@android:drawable/btn_default_small" />
+        android:padding="10dp"
+        android:textColor="#ffffff"
+        android:background="@drawable/mybutton"
+         />
+
+    <!--<Button-->
+        <!--style="?android:attr/buttonStyleSmall"-->
+        <!--android:layout_width="134dp"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="Choose a file"-->
+        <!--android:id="@+id/choose_file"-->
+        <!--android:layout_gravity="center_horizontal"-->
+        <!--android:background="#0000ff"-->
+        <!--android:textColor="#ffffff"-->
+        <!--android:textColorHighlight="#ffffff" />-->
 
 
     <Button
@@ -36,7 +49,9 @@
         android:text="Dropbox"
         android:id="@+id/chooser_button"
         android:layout_gravity="center_horizontal"
-        android:layout_weight="0.04" />
+        android:layout_weight="0.04"
+        android:background="#0000ff"
+        android:textColor="#ffffff" />
 
     <Button
         android:id="@+id/logout"
@@ -46,8 +61,8 @@
         android:textSize="22dip"
         android:layout_marginTop="30dip"
         android:layout_gravity="center"
-        android:background="@android:drawable/btn_default"
-        android:textColor="#000000"
+        android:background="#0000ff"
+        android:textColor="#ffffff"
         android:singleLine="true" />
 
 </LinearLayout>

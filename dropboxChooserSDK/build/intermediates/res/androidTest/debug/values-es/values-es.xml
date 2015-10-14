@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/dropboxChooserSDK/build/intermediates/bundles/debug/res/values-es/values-es.xml -->
+    <!-- From: file:/C:/Users/piyus/AndroidStudioProjects/CloudPrint_Fall2015/dropboxChooserSDK/build/intermediates/bundles/debug/res/values-es/values-es.xml -->
     <eat-comment/>
     <string name="dbx_install">Instalar Dropbox</string>
     <string name="dbx_install_button_cancel">Cancelar</string>

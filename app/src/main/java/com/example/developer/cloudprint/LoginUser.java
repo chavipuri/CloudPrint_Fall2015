@@ -109,7 +109,7 @@ public class LoginUser extends AppCompatActivity implements View.OnClickListener
         //QUERY_result=result.getString(0);
         if(result.getCount()>0){
             Intent intent;
-            intent = new Intent(LoginUser.this,LoggedUser.class);
+            intent = new Intent(LoginUser.this,MapsActivity.class);
             Bundle bundle = new Bundle();
             bundle.putString("UserName", login_username.getText().toString().trim());
             intent.putExtras(bundle);

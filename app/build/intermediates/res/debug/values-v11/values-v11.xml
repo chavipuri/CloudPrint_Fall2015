@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/CloudPrint/aFileChooser/unspecified/res/values-v11/values-v11.xml -->
+    <!-- From: file:/C:/Users/piyus/AndroidStudioProjects/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/CloudPrint_Fall2015/aFileChooser/unspecified/res/values-v11/values-v11.xml -->
     <eat-comment/>
     <string name="choose_file">Choose a file</string>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/CloudPrint/dropboxChooserSDK/unspecified/res/values-v11/values-v11.xml -->
+    <!-- From: file:/C:/Users/piyus/AndroidStudioProjects/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/CloudPrint_Fall2015/dropboxChooserSDK/unspecified/res/values-v11/values-v11.xml -->
     <eat-comment/>
     <style name="AppBaseTheme" parent="android:Theme.Holo.Light">
         <!-- API 11 theme customizations can go here. -->
     </style>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml -->
+    <!-- From: file:/C:/Users/piyus/AndroidStudioProjects/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml -->
     <eat-comment/>
     <style name="Base.TextAppearance.AppCompat.Inverse">
         <item name="android:textColor">?android:attr/textColorPrimaryInverse</item>

@@ -5,3 +5,7 @@
 .DS_Store
 /build
 /captures
+dropboxChooserSDK/build/
+aFileChooser/build/
+/dropboxChooserSDK/build/
+/aFileChooser/build/

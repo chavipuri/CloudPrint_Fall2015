@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/aFileChooser/build/intermediates/bundles/debug/res/values-ca/values-ca.xml -->
+    <!-- From: file:/C:/Users/piyus/AndroidStudioProjects/CloudPrint_Fall2015/aFileChooser/build/intermediates/bundles/debug/res/values-ca/values-ca.xml -->
     <eat-comment/>
     <string name="choose_file">Seleccioneu un fitxer</string>
     <string name="empty_directory">Carpeta buida</string>

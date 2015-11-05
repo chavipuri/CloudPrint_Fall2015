@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-es/values-es.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-es/values-es.xml -->
     <eat-comment/>
     <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Ir a la pantalla de inicio"</string>
     <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
@@ -19,10 +19,10 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Compartir con"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Compartir con %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Contraer"</string>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/CloudPrint/aFileChooser/unspecified/res/values-es/values-es.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/CloudPrint_Fall2015/aFileChooser/unspecified/res/values-es/values-es.xml -->
     <eat-comment/>
     <string name="choose_file">Seleccione un archivo</string>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/CloudPrint/dropboxChooserSDK/unspecified/res/values-es/values-es.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/CloudPrint_Fall2015/dropboxChooserSDK/unspecified/res/values-es/values-es.xml -->
     <eat-comment/>
     <string name="dbx_install">Instalar Dropbox</string>
     <string name="dbx_install_button_cancel">Cancelar</string>
@@ -33,14 +33,14 @@
     <string name="dbx_update_button_ok">Actualizar</string>
     <string name="dbx_update_main">Actualiza la aplicación de Dropbox</string>
     <string name="dbx_update_sub">Con la nueva aplicación de Dropbox, podrás acceder a todos tus archivos en tus aplicaciones favoritas, como esta.</string>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/CloudPrint/aFileChooser/unspecified/res/values-es/values-es.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/CloudPrint_Fall2015/aFileChooser/unspecified/res/values-es/values-es.xml -->
     <eat-comment/>
     <string name="empty_directory">Directorio vacío</string>
     <string name="error_selecting_file">Error al seleccionar el archivo</string>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-es/values-es.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-es/values-es.xml -->
     <eat-comment/>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"+999"</string>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/CloudPrint/aFileChooser/unspecified/res/values-es/values-es.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/CloudPrint_Fall2015/aFileChooser/unspecified/res/values-es/values-es.xml -->
     <eat-comment/>
     <string name="storage_removed">Se ha retirado o desmontado el almacenamiento.</string>
 </resources>

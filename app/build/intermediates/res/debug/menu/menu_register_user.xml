@@ -1,8 +1,8 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:context="com.example.developer.cloudprint.LoginUser">
+    tools:context="com.example.developer.cloudprint.ui.LoginUser">
     <item android:id="@+id/action_settings" android:title="@string/action_settings"
         android:orderInCategory="100" app:showAsAction="never" />
 </menu>
-<!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/src/main/res/menu/menu_register_user.xml -->
+<!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/src/main/res/menu/menu_register_user.xml -->

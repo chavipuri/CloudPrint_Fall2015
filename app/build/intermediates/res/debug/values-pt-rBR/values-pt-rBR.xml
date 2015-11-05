@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/CloudPrint/aFileChooser/unspecified/res/values-pt-rBR/values-pt-rBR.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/CloudPrint_Fall2015/aFileChooser/unspecified/res/values-pt-rBR/values-pt-rBR.xml -->
     <eat-comment/>
     <string name="choose_file">Selecione um Arquivo</string>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/CloudPrint/dropboxChooserSDK/unspecified/res/values-pt-rBR/values-pt-rBR.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/CloudPrint_Fall2015/dropboxChooserSDK/unspecified/res/values-pt-rBR/values-pt-rBR.xml -->
     <eat-comment/>
     <string name="dbx_install">Instalar Dropbox</string>
     <string name="dbx_install_button_cancel">Cancelar</string>
@@ -14,7 +14,7 @@
     <string name="dbx_update_button_ok">Atualizar</string>
     <string name="dbx_update_main">Atualize o aplicativo do Dropbox</string>
     <string name="dbx_update_sub">Com o novo aplicativo do Dropbox, é possível acessar todos os seus arquivos em seus aplicativos favoritos, como este aqui!</string>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/CloudPrint/aFileChooser/unspecified/res/values-pt-rBR/values-pt-rBR.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/CloudPrint_Fall2015/aFileChooser/unspecified/res/values-pt-rBR/values-pt-rBR.xml -->
     <eat-comment/>
     <string name="empty_directory">Pasta Vazia</string>
     <string name="error_selecting_file">Erro ao selecionar o Arquivo</string>

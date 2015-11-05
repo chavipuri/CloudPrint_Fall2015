@@ -1,4 +1,4 @@
-package com.example.developer.cloudprint;
+package com.example.developer.cloudprint.ui;
 
 import android.app.Activity;
 import android.content.ActivityNotFoundException;
@@ -15,21 +15,27 @@ import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.amazonaws.auth.CognitoCachingCredentialsProvider;
+import com.amazonaws.mobileconnectors.s3.transfermanager.TransferManager;
+import com.amazonaws.mobileconnectors.s3.transfermanager.TransferProgress;
+import com.amazonaws.mobileconnectors.s3.transfermanager.Upload;
+import com.amazonaws.regions.Regions;
 import com.dropbox.chooser.android.DbxChooser;
+import com.example.developer.cloudprint.R;
+import com.example.developer.cloudprint.model.User;
 import com.ipaulpro.afilechooser.utils.FileUtils;
+
 
 import java.io.DataOutputStream;
 import java.io.File;
-import java.io.FileInputStream;
 import java.net.HttpURLConnection;
-import java.net.MalformedURLException;
-import java.net.URL;
 
 public class LoggedUser extends AppCompatActivity {
 
     private Button user_logout_button;
     private TextView username;
     private Bundle bundle;
+    public static final String BUCKET_NAME = "cloudprint";
 
 
     static final int DBX_CHOOSER_REQUEST = 0;  // You can change this if needed
@@ -44,11 +50,19 @@ public class LoggedUser extends AppCompatActivity {
     int serverResponseCode = 0;
 
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        bundle = this.getIntent().getExtras();
-        String name = bundle.getString("UserName");
+
+        Intent i = this.getIntent();
+        User user1 = (User)i.getSerializableExtra("User");
+        Log.i("LoggedActivity User", user1.getFirstName()+"!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
+
+        String name = user1.getFirstName() + " " + user1.getLastName();
+
+//        bundle = this.getIntent().getExtras();
+//        String name = bundle.getString("UserName");
         StrictMode.ThreadPolicy policy = new StrictMode.ThreadPolicy.Builder().permitAll().build();
         StrictMode.setThreadPolicy(policy);
         setContentView(R.layout.activity_logged_user);
@@ -174,7 +188,7 @@ public class LoggedUser extends AppCompatActivity {
 
 
 
-    public int uploadFile(String sourceFileUri) {
+    public void uploadFile(String sourceFileUri) {
 
 
         final String fileName = sourceFileUri;
@@ -197,12 +211,43 @@ public class LoggedUser extends AppCompatActivity {
                     +fileName);
 
 
-            return 0;
+            //return 0;
 
         }
         else
         {
-            try {
+            // Initialize the Amazon Cognito credentials provider
+            CognitoCachingCredentialsProvider credentialsProvider = new CognitoCachingCredentialsProvider(
+                    getApplicationContext(),
+                    "us-east-1:0b413e9f-7a1b-44b7-adac-9ee2d229da56", // Identity Pool ID
+                    Regions.US_EAST_1 // Region
+            );
+
+            //Toast.makeText(LoggedUser.this, "CRED DONE", Toast.LENGTH_LONG).show();
+            Log.i("uploadFile", "CRED DONE");
+
+            TransferManager transferManager = new TransferManager(credentialsProvider);
+            //String bucket = "uni-cloud";
+
+
+            Upload upload = transferManager.upload(BUCKET_NAME, sourceFile.getName(), sourceFile);
+            while (!upload.isDone()){
+                //Show a progress bar...
+                TransferProgress transferred = upload.getProgress();
+                //Toast.makeText(this, "Uploading... ", Toast.LENGTH_LONG).show();
+                Log.i("Percentage", "" +transferred.getPercentTransferred());
+            }
+
+            //Toast.makeText(this, "Uploaded", Toast.LENGTH_LONG).show();
+
+
+
+
+
+
+
+
+            /*try {
 
                 // open a URL connection to the Servlet
                 FileInputStream fileInputStream = new FileInputStream(sourceFile);
@@ -307,7 +352,7 @@ public class LoggedUser extends AppCompatActivity {
                         + e.getMessage(), e);
             }
             //dialog.dismiss();
-            return serverResponseCode;
+            return serverResponseCode;*/
 
         } // End else block
     }

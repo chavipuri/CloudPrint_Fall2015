@@ -5,7 +5,8 @@
     android:layout_height="match_parent"
     android:layout_weight="3"
     android:background="@android:color/holo_orange_light"
-    android:baselineAligned="false">
+    android:baselineAligned="false"
+    android:id="@+id/layout">
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -86,4 +87,4 @@
 
     </LinearLayout>
 </LinearLayout>
-<!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/src/main/res/layout/activity_login_user.xml -->
+<!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/src/main/res/layout/activity_login_user.xml -->

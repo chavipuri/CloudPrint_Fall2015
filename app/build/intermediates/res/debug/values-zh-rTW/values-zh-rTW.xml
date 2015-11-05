@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-zh-rTW/values-zh-rTW.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-zh-rTW/values-zh-rTW.xml -->
     <eat-comment/>
     <string msgid="4600421777120114993" name="abc_action_bar_home_description">"瀏覽首頁"</string>
     <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s：%2$s"</string>
@@ -19,7 +19,7 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"選擇分享對象"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"與「%s」分享"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"收合"</string>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/CloudPrint/dropboxChooserSDK/unspecified/res/values-zh-rTW/values-zh-rTW.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/CloudPrint_Fall2015/dropboxChooserSDK/unspecified/res/values-zh-rTW/values-zh-rTW.xml -->
     <eat-comment/>
     <string name="dbx_install">安裝 Dropbox</string>
     <string name="dbx_install_button_cancel">取消</string>
@@ -30,7 +30,7 @@
     <string name="dbx_update_button_ok">更新</string>
     <string name="dbx_update_main">請更新 Dropbox 應用程式</string>
     <string name="dbx_update_sub">有了新的 Dropbox 應用程式，您就可以透過您最喜歡的應用程式 (就像這個！)，存取您所有的資料。</string>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-zh-rTW/values-zh-rTW.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-zh-rTW/values-zh-rTW.xml -->
     <eat-comment/>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

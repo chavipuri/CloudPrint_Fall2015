@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="https://android.dropbox.com/StringsSchema">
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <attr format="reference" name="drawerArrowStyle"/>
     <attr format="dimension" name="height"/>
@@ -13,11 +13,11 @@
     <bool name="abc_config_allowActionMenuItemTextWithIcon">false</bool>
     <bool name="abc_config_closeDialogWhenTouchOutside">true</bool>
     <bool name="abc_config_showMenuShortcutsWhenKeyboardPresent">false</bool>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/CloudPrint/aFileChooser/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/CloudPrint_Fall2015/aFileChooser/unspecified/res/values/values.xml -->
     <eat-comment/>
     <bool name="use_activity">true</bool>
     <bool name="use_provider">false</bool>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <color name="abc_input_method_navigation_guard">@android:color/black</color>
     <color name="abc_search_url_text_normal">#7fa87f</color>
@@ -25,20 +25,20 @@
     <color name="abc_search_url_text_selected">@android:color/black</color>
     <color name="accent_material_dark">@color/material_deep_teal_200</color>
     <color name="accent_material_light">@color/material_deep_teal_500</color>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/CloudPrint/dropboxChooserSDK/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/CloudPrint_Fall2015/dropboxChooserSDK/unspecified/res/values/values.xml -->
     <eat-comment/>
     <color name="actionBarBackground">#007de3</color>
     <color name="actionBarHighlight">#000000</color>
     <color name="actionModeBackground">#FFFFFFFF</color>
     <color name="actionModeHighlight">#FF000000</color>
     <color name="album_list_cover_image_frame">#FF000000</color>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <color name="background_floating_material_dark">@color/material_grey_800</color>
     <color name="background_floating_material_light">@android:color/white</color>
     <color name="background_material_dark">@color/material_grey_850</color>
     <color name="background_material_light">@color/material_grey_50</color>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/CloudPrint/dropboxChooserSDK/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/CloudPrint_Fall2015/dropboxChooserSDK/unspecified/res/values/values.xml -->
     <eat-comment/>
     <color name="barDark">#444</color>
     <color name="barDarkBorder">#666</color>
@@ -47,7 +47,7 @@
     <color name="blackBackground">#000000</color>
     <color name="blue">#FF0000FF</color>
     <color name="blueBackground">#1865a9</color>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <color name="bright_foreground_disabled_material_dark">#80ffffff</color>
     <color name="bright_foreground_disabled_material_light">#80000000</color>
@@ -55,26 +55,26 @@
     <color name="bright_foreground_inverse_material_light">@color/bright_foreground_material_dark</color>
     <color name="bright_foreground_material_dark">@android:color/white</color>
     <color name="bright_foreground_material_light">@android:color/black</color>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/CloudPrint/dropboxChooserSDK/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/CloudPrint_Fall2015/dropboxChooserSDK/unspecified/res/values/values.xml -->
     <eat-comment/>
     <color name="buttonHighlight">#ffa443</color>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <color name="button_material_dark">#ff5a595b</color>
     <color name="button_material_light">#ffd6d7d7</color>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/CloudPrint/dropboxChooserSDK/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/CloudPrint_Fall2015/dropboxChooserSDK/unspecified/res/values/values.xml -->
     <eat-comment/>
     <color name="darkBlueText">#2B405C</color>
     <color name="darkButtonText">#FFFFFF</color>
     <color name="darkGrayText">#323436</color>
     <color name="dialogBoxTitleBackground">#DD000000</color>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <color name="dim_foreground_disabled_material_dark">#80bebebe</color>
     <color name="dim_foreground_disabled_material_light">#80323232</color>
     <color name="dim_foreground_material_dark">#ffbebebe</color>
     <color name="dim_foreground_material_light">#ff323232</color>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/CloudPrint/dropboxChooserSDK/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/CloudPrint_Fall2015/dropboxChooserSDK/unspecified/res/values/values.xml -->
     <eat-comment/>
     <color name="errorText">#bb0000</color>
     <color name="feature_popover_bg">#EAF3FF</color>
@@ -85,11 +85,11 @@
     <color name="filelistItemPressed">#f4faff</color>
     <color name="folderTitleBackground">#e6e7e8</color>
     <color name="folderTitleBackgroundBorder">#a9a9a9</color>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <color name="foreground_material_dark">@android:color/white</color>
     <color name="foreground_material_light">@android:color/black</color>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/CloudPrint/dropboxChooserSDK/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/CloudPrint_Fall2015/dropboxChooserSDK/unspecified/res/values/values.xml -->
     <eat-comment/>
     <color name="galleryChromeBackground" ns1:default="#000000" ns1:samsung="#ff2b2b2b">#000000</color>
     <color name="galleryChromeTransparencyBackgroundDark" ns1:default="#cc000000" ns1:samsung="#ff000000">#cc000000</color>
@@ -99,13 +99,13 @@
     <color name="grayButtonText">#111</color>
     <color name="green">#FF00FF00</color>
     <color name="greenButtonText">#FFFFFF</color>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <color name="highlighted_text_material_dark">#6680cbc4</color>
     <color name="highlighted_text_material_light">#66009688</color>
     <color name="hint_foreground_material_dark">@color/bright_foreground_disabled_material_dark</color>
     <color name="hint_foreground_material_light">@color/bright_foreground_disabled_material_light</color>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/CloudPrint/dropboxChooserSDK/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/CloudPrint_Fall2015/dropboxChooserSDK/unspecified/res/values/values.xml -->
     <eat-comment/>
     <color name="lightBlueBackground">#F4FAFF</color>
     <color name="lightBlueBackground2">#f2f8fc</color>
@@ -114,7 +114,7 @@
     <color name="localListEmptyText">#999999</color>
     <color name="loginButtonText">#FF000000</color>
     <color name="loginText">#FFFFFF</color>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <color name="material_blue_grey_800">#ff37474f</color>
     <color name="material_blue_grey_900">#ff263238</color>
@@ -128,7 +128,7 @@
     <color name="material_grey_800">#ff424242</color>
     <color name="material_grey_850">#ff303030</color>
     <color name="material_grey_900">#ff212121</color>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/CloudPrint/dropboxChooserSDK/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/CloudPrint_Fall2015/dropboxChooserSDK/unspecified/res/values/values.xml -->
     <eat-comment/>
     <color name="mediumGrayText">#738499</color>
     <color name="passcodeBackgroundOverride">#ff454545</color>
@@ -141,7 +141,7 @@
     <color name="passwordStrengthText">#58C473</color>
     <color name="passwordStrengthUnlitPhone">#e7e7e7</color>
     <color name="photoTabBackground">#ffffff</color>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <color name="primary_dark_material_dark">@android:color/black</color>
     <color name="primary_dark_material_light">@color/material_grey_600</color>
@@ -151,11 +151,11 @@
     <color name="primary_text_default_material_light">#de000000</color>
     <color name="primary_text_disabled_material_dark">#4Dffffff</color>
     <color name="primary_text_disabled_material_light">#39000000</color>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/CloudPrint/dropboxChooserSDK/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/CloudPrint_Fall2015/dropboxChooserSDK/unspecified/res/values/values.xml -->
     <eat-comment/>
     <color name="red">#FFFF0000</color>
     <color name="redButtonText">#FFFFFF</color>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <color name="ripple_material_dark">#42ffffff</color>
     <color name="ripple_material_light">#1f000000</color>
@@ -163,20 +163,20 @@
     <color name="secondary_text_default_material_light">#8a000000</color>
     <color name="secondary_text_disabled_material_dark">#36ffffff</color>
     <color name="secondary_text_disabled_material_light">#24000000</color>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/CloudPrint/dropboxChooserSDK/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/CloudPrint_Fall2015/dropboxChooserSDK/unspecified/res/values/values.xml -->
     <eat-comment/>
     <color name="ssLoginText">#354045</color>
     <color name="ss_passwordStrengthMeterLit">#96a5b2</color>
     <color name="ss_passwordStrengthMeterUnlit">#ffffff</color>
     <color name="ss_passwordStrengthText">#96a5b2</color>
     <color name="statusBarSeparator">#333333</color>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <color name="switch_thumb_disabled_material_dark">#ff616161</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/CloudPrint/dropboxChooserSDK/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/CloudPrint_Fall2015/dropboxChooserSDK/unspecified/res/values/values.xml -->
     <eat-comment/>
     <color name="text">#FF000000</color>
     <color name="textFieldStroke">#359cf8</color>
@@ -221,7 +221,7 @@
     <declare-styleable name="View"><attr format="dimension" name="paddingStart"/><attr format="dimension" name="paddingEnd"/><attr name="android:focusable"/><attr format="reference" name="theme"/><attr name="android:theme"/></declare-styleable>
     <declare-styleable name="ViewBackgroundHelper"><attr name="android:background"/><attr format="color" name="backgroundTint"/><attr name="backgroundTintMode"><enum name="src_over" value="3"/><enum name="src_in" value="5"/><enum name="src_atop" value="9"/><enum name="multiply" value="14"/><enum name="screen" value="15"/></attr></declare-styleable>
     <declare-styleable name="ViewStubCompat"><attr name="android:layout"/><attr name="android:inflatedId"/><attr name="android:id"/></declare-styleable>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <dimen name="abc_action_bar_content_inset_material">16dp</dimen>
     <dimen name="abc_action_bar_default_height_material">56dp</dimen>
@@ -283,11 +283,11 @@
     <dimen name="abc_text_size_subtitle_material_toolbar">16dp</dimen>
     <dimen name="abc_text_size_title_material">20sp</dimen>
     <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/src/main/res/values/dimens.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/CloudPrint/dropboxChooserSDK/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/CloudPrint_Fall2015/dropboxChooserSDK/unspecified/res/values/values.xml -->
     <eat-comment/>
     <dimen name="appStoreInterstitialMargin">25dp</dimen>
     <dimen name="buttonTextSize">15sp</dimen>
@@ -303,7 +303,7 @@
     <dimen name="dbx_dropdownitem_text_padding_right">8dip</dimen>
     <dimen name="dbx_search_view_preferred_width">320dip</dimen>
     <dimen name="dbx_search_view_text_min_width">160dip</dimen>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <item name="dialog_fixed_height_major" type="dimen">80%</item>
     <item name="dialog_fixed_height_minor" type="dimen">100%</item>
@@ -311,7 +311,7 @@
     <item name="dialog_fixed_width_minor" type="dimen">320dp</item>
     <item format="float" name="disabled_alpha_material_dark" type="dimen">0.30</item>
     <item format="float" name="disabled_alpha_material_light" type="dimen">0.26</item>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/CloudPrint/dropboxChooserSDK/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/CloudPrint_Fall2015/dropboxChooserSDK/unspecified/res/values/values.xml -->
     <eat-comment/>
     <dimen name="fileChooserButtonLeft">2dp</dimen>
     <dimen name="fileChooserButtonRight">2dp</dimen>
@@ -321,16 +321,16 @@
     <dimen name="fileChooserPaddingRight">8dp</dimen>
     <dimen name="fileChooserPaddingTop">12dp</dimen>
     <dimen name="fileChooserTitleText">20sp</dimen>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <item format="float" name="highlight_alpha_material_colored" type="dimen">0.26</item>
     <item format="float" name="highlight_alpha_material_dark" type="dimen">0.20</item>
     <item format="float" name="highlight_alpha_material_light" type="dimen">0.12</item>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/CloudPrint/aFileChooser/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/CloudPrint_Fall2015/aFileChooser/unspecified/res/values/values.xml -->
     <eat-comment/>
     <dimen name="list_item_padding">16dp</dimen>
     <dimen name="list_padding">0dp</dimen>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <dimen name="notification_large_icon_height">64dp</dimen>
     <dimen name="notification_large_icon_width">64dp</dimen>
@@ -349,10 +349,10 @@
     <integer name="abc_config_activityShortDur">150</integer>
     <integer name="abc_max_action_buttons">2</integer>
     <integer name="cancel_button_image_alpha">127</integer>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/CloudPrint/dropboxChooserSDK/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/CloudPrint_Fall2015/dropboxChooserSDK/unspecified/res/values/values.xml -->
     <eat-comment/>
     <integer name="dbx_max_action_buttons">2</integer>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <integer name="status_bar_notification_info_maxnum">999</integer>
     <string name="abc_action_bar_home_description">Navigate home</string>
@@ -372,15 +372,15 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="action_settings">Settings</string>
     <string name="app_name">Cloud Print</string>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/CloudPrint/aFileChooser/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/CloudPrint_Fall2015/aFileChooser/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string name="choose_file">Select a file</string>
     <string name="chooser_title">Lorem ipsum</string>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/CloudPrint/dropboxChooserSDK/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/CloudPrint_Fall2015/dropboxChooserSDK/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string name="dbx_install">Install Dropbox</string>
     <string name="dbx_install_button_cancel">Cancel</string>
@@ -391,33 +391,33 @@
     <string name="dbx_update_button_ok">Update</string>
     <string name="dbx_update_main">Please Update the Dropbox App</string>
     <string name="dbx_update_sub">With the new Dropbox app, you can access all your stuff in your favorite apps, like this one!</string>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/CloudPrint/aFileChooser/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/CloudPrint_Fall2015/aFileChooser/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string name="empty_directory">Empty Directory</string>
     <string name="error_selecting_file">Error selecting File</string>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="hello_world">Hello world!</string>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/CloudPrint/aFileChooser/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/CloudPrint_Fall2015/aFileChooser/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string name="internal_storage">Internal storage</string>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/CloudPrint/aFileChooser/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/CloudPrint_Fall2015/aFileChooser/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string name="storage_removed">Storage was removed or unmounted.</string>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="title_activity_logged_user">Cloud Print</string>
     <string name="title_activity_login_user">Cloud Print</string>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>
     <style name="Animation.AppCompat.DropDownUp" parent="Base.Animation.AppCompat.DropDownUp"/>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/CloudPrint/dropboxChooserSDK/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/CloudPrint_Fall2015/dropboxChooserSDK/unspecified/res/values/values.xml -->
     <eat-comment/>
     <style name="AppBaseTheme" parent="android:Theme.Light">
         <!--
@@ -426,12 +426,12 @@
             backward-compatibility can go here.
         -->
     </style>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/src/main/res/values/styles.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Customize your theme here. -->
     </style>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <style name="Base.AlertDialog.AppCompat" parent="android:Widget">
         <item name="android:layout">@layout/abc_alert_dialog_material</item>
@@ -1346,7 +1346,7 @@
         <item name="android:minWidth">56dp</item>
         <item name="android:scaleType">center</item>
     </style>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/CloudPrint/dropboxChooserSDK/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/CloudPrint_Fall2015/dropboxChooserSDK/unspecified/res/values/values.xml -->
     <eat-comment/>
     <style name="BottomBar">
         <item name="android:layout_width">match_parent</item>
@@ -1360,10 +1360,10 @@
         <item name="android:layout_width">match_parent</item>
         <item name="android:layout_height">wrap_content</item>
     </style>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/CloudPrint/aFileChooser/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/CloudPrint_Fall2015/aFileChooser/unspecified/res/values/values.xml -->
     <eat-comment/>
     <style name="ChooserTheme" parent="android:Theme.Light"/>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/CloudPrint/dropboxChooserSDK/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/CloudPrint_Fall2015/dropboxChooserSDK/unspecified/res/values/values.xml -->
     <eat-comment/>
     <style name="CommonButtonGreen" parent="_CommonButtonBase">
         <item name="android:background">@drawable/common_button_green</item>
@@ -1373,7 +1373,7 @@
         <item name="android:background">@drawable/common_button_light_gray</item>
         <item name="android:textColor">@color/grayButtonText</item>
     </style>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <style name="Platform.AppCompat" parent="android:Theme">
         <item name="android:windowNoTitle">true</item>
@@ -1700,14 +1700,14 @@
     <style name="Widget.AppCompat.TextView.SpinnerItem" parent="Base.Widget.AppCompat.TextView.SpinnerItem"/>
     <style name="Widget.AppCompat.Toolbar" parent="Base.Widget.AppCompat.Toolbar"/>
     <style name="Widget.AppCompat.Toolbar.Button.Navigation" parent="Base.Widget.AppCompat.Toolbar.Button.Navigation"/>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/CloudPrint/dropboxChooserSDK/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/CloudPrint_Fall2015/dropboxChooserSDK/unspecified/res/values/values.xml -->
     <eat-comment/>
     <style name="_CommonButtonBase">
         <item name="android:layout_width">wrap_content</item>
         <item name="android:layout_height">wrap_content</item>
         <item name="android:textSize">@dimen/buttonTextSize</item>
     </style>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/CloudPrint/aFileChooser/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/CloudPrint_Fall2015/aFileChooser/unspecified/res/values/values.xml -->
     <eat-comment/>
     <style name="fileChooserName">
         <item name="android:drawablePadding">@dimen/list_item_padding</item>

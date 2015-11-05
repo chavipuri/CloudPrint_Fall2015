@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ja/values-ja.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ja/values-ja.xml -->
     <eat-comment/>
     <string msgid="4600421777120114993" name="abc_action_bar_home_description">"ホームへ移動"</string>
     <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s、%2$s"</string>
@@ -19,7 +19,7 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"共有"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%sと共有"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"折りたたむ"</string>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/CloudPrint/dropboxChooserSDK/unspecified/res/values-ja/values-ja.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/CloudPrint_Fall2015/dropboxChooserSDK/unspecified/res/values-ja/values-ja.xml -->
     <eat-comment/>
     <string name="dbx_install">Dropbox をインストールする</string>
     <string name="dbx_install_button_cancel">キャンセル</string>
@@ -30,7 +30,7 @@
     <string name="dbx_update_button_ok">更新</string>
     <string name="dbx_update_main">Dropbox アプリを更新してください</string>
     <string name="dbx_update_sub">新しい Dropbox アプリをお使いになると、こちらのようなお気に入りのアプリにあるすべてのアイテムにアクセスすることができます！</string>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ja/values-ja.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ja/values-ja.xml -->
     <eat-comment/>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

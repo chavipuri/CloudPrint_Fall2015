@@ -9,4 +9,4 @@
           android:drawable="@drawable/common_btn_green_disabled" />
     <item android:drawable="@drawable/common_btn_green_normal" />
 </selector>
-<!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/dropboxChooserSDK/src/main/res/drawable/common_button_green.xml -->
+<!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/dropboxChooserSDK/src/main/res/drawable/common_button_green.xml -->

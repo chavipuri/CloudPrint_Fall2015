@@ -86,4 +86,4 @@
 	<!-- Android specific -->
 	<type extension=".apk" mimetype="application/vnd.android.package-archive" />
 	
-</MimeTypes><!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/aFileChooser/src/main/res/xml/mimetypes.xml --><!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/CloudPrint/aFileChooser/unspecified/res/xml/mimetypes.xml -->
+</MimeTypes><!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/aFileChooser/src/main/res/xml/mimetypes.xml --><!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/CloudPrint_Fall2015/aFileChooser/unspecified/res/xml/mimetypes.xml -->

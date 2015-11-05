@@ -18,4 +18,4 @@
     style="@style/fileChooserName"
     android:layout_width="fill_parent"
     android:layout_height="?android:attr/listPreferredItemHeight" />
-<!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/aFileChooser/src/main/res/layout/file.xml --><!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/CloudPrint/aFileChooser/unspecified/res/layout/file.xml -->
+<!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/aFileChooser/src/main/res/layout/file.xml --><!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/exploded-aar/CloudPrint_Fall2015/aFileChooser/unspecified/res/layout/file.xml -->

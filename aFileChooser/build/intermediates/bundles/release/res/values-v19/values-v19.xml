@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/aFileChooser/src/main/res/values-v19/bool.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/aFileChooser/src/main/res/values-v19/bool.xml -->
     <eat-comment/>
     <bool name="use_activity">false</bool>
     <bool name="use_provider">true</bool>

@@ -2,46 +2,18 @@
 <items version="2" >
 
     <item
-        jar="/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jar="/Users/Ankush/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/pre-dexed/debug/classes-d1d96e44af0099794b3037f9b847d485ce8d1bee.jar" />
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.9-bbcdf9e9c8c3f3ba95137c70a6f2636f3fa95881.jar" />
     </item>
     <item
-        jar="/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/CloudPrint/aFileChooser/unspecified/jars/classes.jar"
+        jar="/Users/Ankush/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="06c68a35cff563563a0cbe47f75cc8c0ba423442">
-        <dex dex="/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/pre-dexed/debug/classes-769276d3122d4f6c672b5394fa3ae1d86a29e383.jar" />
-    </item>
-    <item
-        jar="/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/CloudPrint/dropboxChooserSDK/unspecified/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="a9e60e0ea0a021c851cff235b6a188d8604c88a4">
-        <dex dex="/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/pre-dexed/debug/classes-ef6922cb565d8a549bac091375da058d805571c8.jar" />
-    </item>
-    <item
-        jar="/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-426c33212b2c3d7f2ae7b8fd3d2bf0945dc337aa.jar" />
-    </item>
-    <item
-        jar="/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/pre-dexed/debug/classes-fdd7f7db5bc8ca5ead31acff9834437cc6229357.jar" />
-    </item>
-    <item
-        jar="/home/developer/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
-        <dex dex="/home/developer/AndroidStudioProjects/CloudPrint/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-45714c659cad1e9e95131d8bb54a789e7ed8d6aa.jar" />
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/Users/Ankush/Desktop/CloudPrint_Fall2015/app/build/intermediates/pre-dexed/debug/httpclient-4.3.6-a5a4d936619f40713bde0241b9c029a1be38feb9.jar" />
     </item>
 
 </items>

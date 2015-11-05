@@ -128,19 +128,19 @@ public final class R {
 		public static final int tab_dropbox_inactive = 0x7f020050;
 	}
 	public static final class id {
-		public static final int dbx_bottom_bar = 0x7f0d0063;
-		public static final int dbx_bottom_bar_cancel_button = 0x7f0d0064;
-		public static final int dbx_bottom_bar_ok_button = 0x7f0d0065;
-		public static final int dbx_bottom_space = 0x7f0d0062;
-		public static final int dbx_button_bar = 0x7f0d005a;
-		public static final int dbx_button_container = 0x7f0d0059;
-		public static final int dbx_icon = 0x7f0d005f;
-		public static final int dbx_install_main = 0x7f0d0060;
-		public static final int dbx_install_sub = 0x7f0d0061;
-		public static final int dbx_install_title = 0x7f0d005c;
-		public static final int dbx_main_container = 0x7f0d005b;
-		public static final int dbx_separator = 0x7f0d005d;
-		public static final int dbx_top_space = 0x7f0d005e;
+		public static final int dbx_bottom_bar = 0x7f0d0066;
+		public static final int dbx_bottom_bar_cancel_button = 0x7f0d0067;
+		public static final int dbx_bottom_bar_ok_button = 0x7f0d0068;
+		public static final int dbx_bottom_space = 0x7f0d0065;
+		public static final int dbx_button_bar = 0x7f0d005d;
+		public static final int dbx_button_container = 0x7f0d005c;
+		public static final int dbx_icon = 0x7f0d0062;
+		public static final int dbx_install_main = 0x7f0d0063;
+		public static final int dbx_install_sub = 0x7f0d0064;
+		public static final int dbx_install_title = 0x7f0d005f;
+		public static final int dbx_main_container = 0x7f0d005e;
+		public static final int dbx_separator = 0x7f0d0060;
+		public static final int dbx_top_space = 0x7f0d0061;
 	}
 	public static final class integer {
 		public static final int dbx_max_action_buttons = 0x7f0b0001;

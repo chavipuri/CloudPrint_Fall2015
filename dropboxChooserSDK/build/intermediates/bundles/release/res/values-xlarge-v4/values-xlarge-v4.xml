@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/dropboxChooserSDK/src/main/res/values-xlarge/abs__dimens.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/dropboxChooserSDK/src/main/res/values-xlarge/abs__dimens.xml -->
     <eat-comment/>
     <dimen name="dbx_action_bar_default_height">56dip</dimen>
     <dimen name="dbx_action_bar_icon_vertical_padding">4dip</dimen>

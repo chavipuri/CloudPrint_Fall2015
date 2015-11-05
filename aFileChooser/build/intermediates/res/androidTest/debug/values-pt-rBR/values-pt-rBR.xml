@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/home/developer/AndroidStudioProjects/CloudPrint/aFileChooser/build/intermediates/bundles/debug/res/values-pt-rBR/values-pt-rBR.xml -->
+    <!-- From: file:/Users/Ankush/Desktop/CloudPrint_Fall2015/aFileChooser/build/intermediates/bundles/debug/res/values-pt-rBR/values-pt-rBR.xml -->
     <eat-comment/>
     <string name="choose_file">Selecione um Arquivo</string>
     <string name="empty_directory">Pasta Vazia</string>

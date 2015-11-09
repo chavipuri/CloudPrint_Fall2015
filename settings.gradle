@@ -1,3 +1,0 @@
-include ':app'
-include ':dropboxChooserSDK'
-include ':aFileChooser'

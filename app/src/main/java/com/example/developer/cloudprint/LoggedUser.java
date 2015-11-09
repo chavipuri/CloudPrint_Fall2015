@@ -161,7 +161,7 @@ public class LoggedUser extends AppCompatActivity {
                         }).start();
 
                     } catch (Exception e) {
-                        Log.e("FileSelectorTestActivity", "File select error", e);
+                        Log.e("FileSelectorTestAcivity", "File select error", e);
                     }
                 }
             }
@@ -303,7 +303,7 @@ public class LoggedUser extends AppCompatActivity {
                                 Toast.LENGTH_SHORT).show();
                     }
                 });
-                Log.e("Upload file to server Exception", "Exception : "
+                Log.e("Upload server Exception", "Exception : "
                         + e.getMessage(), e);
             }
             //dialog.dismiss();
